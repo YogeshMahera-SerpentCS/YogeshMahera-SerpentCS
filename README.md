@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+<a href="https://github-readme-stats.vercel.app/api?username=YogeshMahera-SerpentCS&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YogeshMahera-SerpentCS&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshMahera-SerpentCS&theme=cobalt&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshMahera-SerpentCS&theme=cobalt&layout=compact" />
+</a>
+
 <!--
 **YogeshMahera-SerpentCS/YogeshMahera-SerpentCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
