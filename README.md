@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
-  Yogesh Mahera is a <b>Backend</b> and <b>Frontend</b> developer with experience in the website and web application creation industry. He Specialize in <b>Python</b> and have professional experience working with <b>Odoo,</b>. He also have experience working with relational and spatial databases. 
-</p>
-<hr>
-</br>
+
 
 <a href="https://github-readme-stats.vercel.app/api?username=YogeshMahera-SerpentCS&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YogeshMahera-SerpentCS&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true" />
